@@ -29,11 +29,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **exciting web projects**
-- 🌱 I'm currently learning **new frameworks & tools**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
-- ⚡ Fun fact: **I turn coffee into code ☕➡️💻**
+* 🔭 I'm currently working on **Web Development & Data Analytics projects**
+* 🌱 I'm currently learning **Advanced Data Analytics, Machine Learning & Modern Web Technologies**
+* 👯 I'm looking to collaborate on **Open Source Web Development and Data Analytics projects**
+* 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Python, SQL, Power BI & Data Analytics**
+* 📊 I enjoy transforming **raw data into meaningful insights and interactive dashboards**
+* ⚡ Fun fact: **I turn coffee ☕ into code 💻 and data 📊 into insights**
 
 ---
 
