@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi there, I'm Farhan Khan 👋</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
