@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Farhan Khan 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Web%20Developer%20%7C%20Data%20Analyst&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
